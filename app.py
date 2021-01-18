@@ -29,7 +29,7 @@ app = dash.Dash(__name__,
                     {"name": "viewport", "content": "width=device-width, initial-scale=1"},
                     {"property": "og:title", "content": "GlglStats - ניתוח שירים רפטטיביים במצעד הפזמונים"},
                     {"property": "og:description", "content": "איזה אמנים יותר מבולבלים מיובל המבולבל? יצאנו לבדוק את הסטטיסטיקה"},
-                    {"property": "og:image", "content": "/static/images/logo.png"},
+                    {"property": "og:image", "content": "https://www.glglstats.ml/static/images/logo.png"},
                     {"property": "og:type", "content": "website"},
                     {"property": "og:url", "content": "https://www.glglstats.ml"}
                 ],
