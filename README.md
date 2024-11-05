@@ -1,6 +1,6 @@
 ### Repetition Analysis in Israeli Music
 We analyzed the repetitiveness of Israel music, and made the results accesible via a website:
-https://glglstats.herokuapp.com/
+https://glglstats.onrender.com/
 
 We measure the repetitiveness of a song by the number of characters saved when it is compressed using an algorithm similar to LZ-77.
 We then ranked all songs that had ever appeared in the yearly pop charts, as well as rank all artists against each other.  
